@@ -1,0 +1,38 @@
+[17-Aug-2015 05:40:57 Etc/GMT] PHP Fatal error:  Class 'app\models\ItemSubCategory' not found in /home/rangaele/public_html/yii/views/purchase-order/create.php on line 42
+[17-Aug-2015 07:15:44 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/rangaele/public_html/yii/controllers/PurchaseOrderController.php on line 113
+[17-Aug-2015 07:16:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/rangaele/public_html/yii/controllers/PurchaseOrderController.php on line 113
+[17-Aug-2015 07:16:46 Etc/GMT] PHP Fatal error:  Class 'Yii\helpers\ArrayHelper' not found in /home/rangaele/public_html/yii/controllers/PurchaseOrderController.php on line 114
+[17-Aug-2015 07:21:14 Etc/GMT] PHP Fatal error:  Class 'Yii\helpers\ArrayHelper' not found in /home/rangaele/public_html/yii/controllers/PurchaseOrderController.php on line 114
+[17-Aug-2015 07:23:44 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/rangaele/public_html/yii/controllers/PurchaseOrderController.php on line 141
+[17-Aug-2015 07:28:01 Etc/GMT] PHP Parse error:  syntax error, unexpected 'text' (T_STRING) in /home/rangaele/public_html/yii/controllers/PurchaseOrderController.php on line 142
+[17-Aug-2015 07:29:05 Etc/GMT] PHP Parse error:  syntax error, unexpected 'text' (T_STRING) in /home/rangaele/public_html/yii/controllers/PurchaseOrderController.php on line 142
+[17-Aug-2015 07:29:36 Etc/GMT] PHP Fatal error:  Class 'Yii\helpers\ArrayHelper' not found in /home/rangaele/public_html/yii/controllers/PurchaseOrderController.php on line 114
+[17-Aug-2015 07:31:16 Etc/GMT] PHP Fatal error:  Class 'Yii\helpers\ArrayHelper' not found in /home/rangaele/public_html/yii/controllers/PurchaseOrderController.php on line 114
+[17-Aug-2015 07:34:06 Etc/GMT] PHP Fatal error:  Class 'Yii\helpers\ArrayHelper' not found in /home/rangaele/public_html/yii/controllers/PurchaseOrderController.php on line 114
+[17-Aug-2015 07:34:36 Etc/GMT] PHP Fatal error:  Class 'app\controllers\app\models\ItemSubType' not found in /home/rangaele/public_html/yii/controllers/PurchaseOrderController.php on line 128
+[17-Aug-2015 07:35:25 Etc/GMT] PHP Fatal error:  Class 'app\controllers\app\models\ItemSubType' not found in /home/rangaele/public_html/yii/controllers/PurchaseOrderController.php on line 128
+[17-Aug-2015 07:39:59 Etc/GMT] PHP Fatal error:  Class 'Yii\helpers\ArrayHelper' not found in /home/rangaele/public_html/yii/controllers/PurchaseOrderController.php on line 129
+[17-Aug-2015 07:41:46 Etc/GMT] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/rangaele/public_html/yii/controllers/PurchaseOrderController.php on line 130
+[17-Aug-2015 07:42:35 Etc/GMT] PHP Fatal error:  Class 'app\controllers\ArrayHelper' not found in /home/rangaele/public_html/yii/controllers/PurchaseOrderController.php on line 129
+[17-Aug-2015 07:44:36 Etc/GMT] PHP Fatal error:  Class 'app\controllers\ItemType' not found in /home/rangaele/public_html/yii/controllers/PurchaseOrderController.php on line 129
+[17-Aug-2015 07:46:42 Etc/GMT] PHP Fatal error:  Cannot use app\models\ItemType as ItemType because the name is already in use in /home/rangaele/public_html/yii/controllers/PurchaseOrderController.php on line 12
+[17-Aug-2015 07:47:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/rangaele/public_html/yii/controllers/PurchaseOrderController.php on line 127
+[17-Aug-2015 08:45:09 Etc/GMT] PHP Parse error:  syntax error, unexpected 'type' (T_STRING) in /home/rangaele/public_html/yii/controllers/PurchaseOrderController.php on line 121
+[17-Aug-2015 08:57:51 Etc/GMT] PHP Parse error:  syntax error, unexpected 'type' (T_STRING) in /home/rangaele/public_html/yii/controllers/PurchaseOrderController.php on line 121
+[17-Aug-2015 09:29:23 Etc/GMT] PHP Parse error:  syntax error, unexpected 'gtype' (T_STRING) in /home/rangaele/public_html/yii/controllers/PurchaseOrderController.php on line 121
+[18-Aug-2015 05:08:24 Etc/GMT] PHP Parse error:  syntax error, unexpected '$var' (T_VARIABLE) in /home/rangaele/public_html/yii/controllers/ItemDetailsController.php on line 83
+[18-Aug-2015 05:10:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '$var' (T_VARIABLE) in /home/rangaele/public_html/yii/controllers/ItemDetailsController.php on line 83
+[18-Aug-2015 11:20:34 Etc/GMT] PHP Fatal error:  Class 'app\controllers\ItemDetails' not found in /home/rangaele/public_html/yii/controllers/PurchaseOrderController.php on line 112
+[18-Aug-2015 11:20:36 Etc/GMT] PHP Fatal error:  Class 'app\controllers\ItemDetails' not found in /home/rangaele/public_html/yii/controllers/PurchaseOrderController.php on line 112
+[18-Aug-2015 11:20:37 Etc/GMT] PHP Fatal error:  Class 'app\controllers\ItemDetails' not found in /home/rangaele/public_html/yii/controllers/PurchaseOrderController.php on line 112
+[18-Aug-2015 11:21:18 Etc/GMT] PHP Fatal error:  Class 'app\controllers\ItemDetails' not found in /home/rangaele/public_html/yii/controllers/PurchaseOrderController.php on line 112
+[18-Aug-2015 11:21:39 Etc/GMT] PHP Fatal error:  Class 'app\controllers\ItemDetails' not found in /home/rangaele/public_html/yii/controllers/PurchaseOrderController.php on line 112
+[18-Aug-2015 11:21:40 Etc/GMT] PHP Fatal error:  Class 'app\controllers\ItemDetails' not found in /home/rangaele/public_html/yii/controllers/PurchaseOrderController.php on line 112
+[20-Aug-2015 12:55:29 Etc/GMT] PHP Fatal error:  Class 'TypeaheadBasic' not found in /home/rangaele/public_html/yii/views/purchase-order/create.php on line 101
+[20-Aug-2015 12:56:51 Etc/GMT] PHP Fatal error:  Class 'TypeaheadBasic' not found in /home/rangaele/public_html/yii/views/purchase-order/create.php on line 101
+[20-Aug-2015 13:00:52 Etc/GMT] PHP Fatal error:  Class 'app\models\itemDetails' not found in /home/rangaele/public_html/yii/models/PurchaseOrder.php on line 85
+[24-Aug-2015 06:32:42 Etc/GMT] PHP Fatal error:  Class 'kartik\date\DatePicker' not found in /home/rangaele/public_html/yii/views/site/balace.php on line 55
+[24-Aug-2015 06:34:52 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/rangaele/public_html/yii/views/site/balace.php on line 61
+[24-Aug-2015 06:47:07 Etc/GMT] PHP Fatal error:  Class 'kartik\date\DatePicker' not found in /home/rangaele/public_html/yii/views/site/balaces.php on line 55
+[24-Aug-2015 06:59:31 Etc/GMT] PHP Fatal error:  Class 'kartik\date\DatePicker' not found in /home/rangaele/public_html/yii/views/site/customer.php on line 29
+[24-Aug-2015 07:16:41 Etc/GMT] PHP Fatal error:  Class 'kartik\date\DatePicker' not found in /home/rangaele/public_html/yii/views/site/balace.php on line 55
